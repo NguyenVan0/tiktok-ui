@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T07:02:03.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="btrbfdJ8lG3XRictCzZ-" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:05:51.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RgQCfTdrUo3eO6O8I1MH" version="21.3.2" type="github">
   <diagram name="Trang-1" id="-4HcKg2-gKhnz9QFbqzw">
-    <mxGraphModel dx="2015" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
           <mxGeometry x="360" y="1227" width="118" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="1698" width="591" height="280" as="geometry" />
+          <mxGeometry x="211" y="1699.5" width="591" height="280" as="geometry" />
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-87" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="1581" width="30" height="60" as="geometry" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-96" value="2. Kiểm tra thông tin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1777" width="125" height="26" as="geometry" />
+          <mxGeometry x="550" y="1778" width="125" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-97" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="HhucQ0l_0WBjLBYUHF1_-89" target="HhucQ0l_0WBjLBYUHF1_-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -368,7 +368,7 @@
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-139" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1138" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HhucQ0l_0WBjLBYUHF1_-140" value="Thư kí phòng ban" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="HhucQ0l_0WBjLBYUHF1_-140" value="CBQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1098" y="550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-141" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -383,8 +383,8 @@
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-144" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1368" y="640" width="10" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="HhucQ0l_0WBjLBYUHF1_-145" value="1. Load form" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="640" width="90" height="30" as="geometry" />
+        <mxCell id="HhucQ0l_0WBjLBYUHF1_-145" value="1. Chọn chức năng chuyển phòng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="642" width="199" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HhucQ0l_0WBjLBYUHF1_-146" value="CSDL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1718" y="560" width="140" height="30" as="geometry" />
